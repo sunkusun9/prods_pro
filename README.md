@@ -1,4 +1,4 @@
-# ProDS professional 문제 풀의 강의
+# ProDS professional 문제 풀이 강의
 
 ## 강사
 
